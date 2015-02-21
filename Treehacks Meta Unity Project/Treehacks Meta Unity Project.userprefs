@@ -1,8 +1,10 @@
 ﻿<Properties>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\MetaRoad\Scripts\Controls.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Myo Samples\Scripts\JointOrientation.cs">
     <Files>
-      <File FileName="Assets\MetaRoad\Scripts\Controls.cs" Line="35" Column="2" />
+      <File FileName="Assets\MetaRoad\Scripts\Controls.cs" Line="42" Column="8" />
+      <File FileName="Assets\Myo Samples\Scripts\JointOrientation.cs" Line="110" Column="25" />
+      <File FileName="Assets\Myo Samples\Scripts\PedalMyo.cs" Line="33" Column="35" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
